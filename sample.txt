@@ -1,0 +1,19 @@
+Python is a high level programming language. It is easy to learn and use.
+Python supports object oriented programming.
+It is widely used in data science, AI, and web development.
+
+A compiler converts the entire source code into machine code at once.
+It checks errors after compilation.
+Compiled programs run faster.
+
+SQL is used to manage relational databases.
+It allows storing, retrieving, and updating data.
+Commands include SELECT, INSERT, UPDATE.
+
+HTML is a markup language used to structure web pages.
+It uses tags and elements.
+HTML works with CSS and JavaScript.
+
+Machine Learning allows systems to learn from data.
+It improves performance automatically.
+Used in prediction and classification systems.
